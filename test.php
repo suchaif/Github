@@ -1,0 +1,5 @@
+<?php
+
+$init = 'init.php';
+
+?>
