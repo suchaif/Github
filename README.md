@@ -2,7 +2,7 @@
 
 - Update Readme
 - Update Github
-- Conflict file ?
+- Conflict file ? // change this line too
 - Merge file? // change this line
 
 - Line 8
