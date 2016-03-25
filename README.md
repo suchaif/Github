@@ -5,9 +5,9 @@
 - Conflict file ? // change this line too
 - Merge file? // change this line
 - add new function
+- add new function // this line
 
-- Line 8
-- Line 9
+- Line 9 // remove line 8
 - Line 10
 
 
